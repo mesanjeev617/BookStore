@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g6gkM2PLlndLU9MwLzuYsHoKuRON4s0W3voom/3ZsW8=",
+  "Hash": "G3vowMxzFG38q6SqViIxcVUCvzbWVSBuQKu8ay7BB8Y=",
   "Source": "BookESale",
   "BasePath": "_content/BookESale",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookESale.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\css\\BootsWatchTheme.css",
+      "SourceId": "BookESale",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\",
+      "BasePath": "_content/BookESale",
+      "RelativePath": "css/BootsWatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootsWatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\css\\site.css",

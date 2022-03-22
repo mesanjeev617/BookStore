@@ -1,4 +1,5 @@
-using BookESale.Data;
+
+using BookESale.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,9 +7,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+//Dependency Injection....
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")
     ));
+
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 
 //If we dont have hot reload then this comes handy.... otherwise it is not needed that much.

@@ -1,0 +1,17 @@
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.AssemblyInfo.cs
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\bin\Debug\net6.0\BookESale.DataAccess.deps.json
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\bin\Debug\net6.0\BookESale.DataAccess.runtimeconfig.json
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\bin\Debug\net6.0\BookESale.DataAccess.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\bin\Debug\net6.0\BookESale.DataAccess.pdb
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\bin\Debug\net6.0\BookESale.Models.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\bin\Debug\net6.0\BookESale.Models.pdb
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.csproj.CopyComplete
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\refint\BookESale.DataAccess.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.pdb
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\BookESale.DataAccess.genruntimeconfig.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.DataAccess\obj\Debug\net6.0\ref\BookESale.DataAccess.dll

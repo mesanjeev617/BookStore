@@ -52,15 +52,15 @@ namespace BookESale.Controllers
             {
                 return NotFound();
             }
-            var categoryFromDb = _db.Categories.Find(id);
+          //var categoryFromDb = _db.Categories.Find(id);
             //if we use firstordefault then we can use 
-            //var categortFromDbFirst = _db.Categories.FirstOrDefault(u=> u.id == id);
+           var categortFromDbFirst = _db.Categories.FirstOrDefault(u=> u.Id == id);
             //var categortFromDbSingle = _db.Categories.SingleOrDefault(u=> u.id == id);
-            if(categoryFromDb == null)
+            if(categortFromDbFirst == null)
             {
                 return NotFound();
             }
-            return View(categoryFromDb);
+            return View(categortFromDbFirst);
         }
 
         [HttpPost]

@@ -20,6 +20,8 @@ namespace BookESale.DataAccess.Repository
         public Repository(ApplicationDbContext db)
         {
             _db = db;
+            //Include use for navigation property of category EF will auto populate that model
+            _db.Products.Include(u => u.Category);
             this.dbSet = _db.Set<T>();
         }
         public void Add(T entity)

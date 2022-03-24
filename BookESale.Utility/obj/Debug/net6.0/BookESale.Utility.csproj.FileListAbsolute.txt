@@ -1,0 +1,12 @@
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\bin\Debug\net6.0\BookESale.Utility.deps.json
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\bin\Debug\net6.0\BookESale.Utility.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\bin\Debug\net6.0\BookESale.Utility.pdb
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.csproj.AssemblyReference.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.AssemblyInfoInputs.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.AssemblyInfo.cs
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.csproj.CoreCompileInputs.cache
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\refint\BookESale.Utility.dll
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\BookESale.Utility.pdb
+C:\Users\mesan\source\repos\BookStore\BookESale.Utility\obj\Debug\net6.0\ref\BookESale.Utility.dll

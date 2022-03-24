@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "G3vowMxzFG38q6SqViIxcVUCvzbWVSBuQKu8ay7BB8Y=",
+  "Hash": "QN06n647ZDTgqaH+DxM6gXQiQLnTKa0byZXlilzoGHU=",
   "Source": "BookESale",
   "BasePath": "_content/BookESale",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\Images\\Products\\3ba30db1-e091-44e2-9b2f-d4248364d967.jpg",
+      "SourceId": "BookESale",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\",
+      "BasePath": "_content/BookESale",
+      "RelativePath": "Images/Products/3ba30db1-e091-44e2-9b2f-d4248364d967.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\3ba30db1-e091-44e2-9b2f-d4248364d967.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\js\\product.js",
+      "SourceId": "BookESale",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\",
+      "BasePath": "_content/BookESale",
+      "RelativePath": "js/product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "C:\\Users\\mesan\\source\\repos\\BookStore\\BookESale\\wwwroot\\js\\site.js",

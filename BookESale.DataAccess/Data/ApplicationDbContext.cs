@@ -14,5 +14,8 @@ namespace BookESale.DataAccess.Data
         //This will create table named Categories
         //and let me edit the database ....
         public DbSet<Category> Categories{ get; set; }
+        public DbSet<CoverType> CoverTypes{ get; set; }
+
+        public DbSet<Product> Products { get; set; }
     }
 }
